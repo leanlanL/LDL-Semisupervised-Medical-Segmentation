@@ -38,7 +38,7 @@ BCP: https://github.com/DeepMed-Lab-ECNU/BCP
 ## Contact
 
 Yujiao Lan
-Email: [your_email@163.com](mailto:your_email@163.com)
+Email: [llllean0@163.com](mailto:llllean0@163.com)
 
 Yongjun Zhang
 Email: [yjzhang1@gzu.edu.cn](mailto:yjzhang1@gzu.edu.cn)
