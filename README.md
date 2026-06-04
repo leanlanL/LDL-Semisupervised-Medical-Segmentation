@@ -19,7 +19,7 @@ The experiments use four public benchmark datasets:
 * LA: https://github.com/yulequan/UA-MT/tree/master/data/2018LA_Seg_Training%20Set
 * NIH-Pancreas: https://github.com/taozh2017/Text-SemiSeg/tree/main
 
-For NIH-Pancreas, we use the pre-processed Pancreas-CT data provided by Text-SemiSeg.
+For NIH-Pancreas, we use the pre-processed Pancreas-CT data provided by Text-SemiSeg. The original Pancreas-CT data are publicly available from TCIA.
 
 The raw datasets are not redistributed in this repository. Please obtain the datasets from the listed public sources and follow their respective access terms.
 
