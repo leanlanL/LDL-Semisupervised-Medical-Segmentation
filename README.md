@@ -4,7 +4,7 @@ This repository provides reproducibility information for the manuscript:
 
 **Learning with Local Difficulty Awareness for Semi-Supervised Medical Image Segmentation**
 
-The full source code will be released after manuscript acceptance. This repository currently provides dataset access instructions and code availability information.
+The full source code will be released after manuscript acceptance.
 
 ## Overview
 
@@ -16,32 +16,26 @@ The experiments use four public benchmark datasets:
 
 * ACDC: https://www.creatis.insa-lyon.fr/Challenge/acdc/
 * PROMISE12: https://promise12.grand-challenge.org/
-* LA: https://www.cardiacatlas.org/atriaseg2018-challenge/
-* NIH-Pancreas: https://www.cancerimagingarchive.net/collection/pancreas-ct/
+* LA: https://github.com/yulequan/UA-MT/tree/master/data/2018LA_Seg_Training%20Set
+* NIH-Pancreas: https://github.com/koncle/CoraNet
 
-The raw datasets are not redistributed in this repository. Please obtain them from their original providers and follow their respective licenses, data agreements, and access terms.
+The raw datasets are not redistributed in this repository. Please obtain them from the original providers or the public access links followed by previous benchmarks, and follow their respective access terms.
 
 ## Code availability
 
-The source code, configuration files, preprocessing instructions, and evaluation scripts will be released after manuscript acceptance.
+The source code, configuration files, and evaluation scripts will be released after manuscript acceptance.
 
-The implementation builds upon public semi-supervised medical image segmentation codebases, including SSL4MIS and BCP. Reused components will retain their original copyright and license notices.
-
-## Data availability
-
-The datasets used in this study are publicly available from their original providers under their respective access terms. This repository provides dataset access instructions and reproducibility information.
+The implementation builds upon SSL4MIS and BCP. Reused components will retain their original copyright and license notices.
 
 ## Acknowledgements
 
-This project builds upon SSL4MIS and BCP. We thank the authors of these repositories for their open-source contributions to semi-supervised medical image segmentation.
+This project builds upon the public semi-supervised medical image segmentation codebases SSL4MIS and BCP. We thank the authors for their open-source contributions.
 
 SSL4MIS: https://github.com/HiLab-git/SSL4MIS
 
 BCP: https://github.com/DeepMed-Lab-ECNU/BCP
 
 ## Contact
-
-For questions about this repository, please contact:
 
 Yujiao Lan
 Email: [your_email@163.com](mailto:your_email@163.com)
