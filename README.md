@@ -1,8 +1,8 @@
-# Learning with Local Difficulty Awareness for Semi-Supervised Medical Image Segmentation
+# Local Difficulty Aware Learning for Semi-Supervised Medical Image Segmentation with Limited Annotations
 
 This repository provides reproducibility information for the manuscript:
 
-**Learning with Local Difficulty Awareness for Semi-Supervised Medical Image Segmentation**
+**Local Difficulty Aware Learning for Semi-Supervised Medical Image Segmentation with Limited Annotations**
 
 The full source code will be released after manuscript acceptance.
 
@@ -19,7 +19,7 @@ The experiments use four public benchmark datasets:
 * LA: https://github.com/yulequan/UA-MT/tree/master/data/2018LA_Seg_Training%20Set
 * NIH-Pancreas: https://github.com/taozh2017/Text-SemiSeg/tree/main
 
-For NIH-Pancreas, we use the pre-processed Pancreas-CT data provided by Text-SemiSeg. The original Pancreas-CT data are publicly available from TCIA.
+For NIH-Pancreas, we use the preprocessed Pancreas-CT data provided by Text-SemiSeg. The original Pancreas-CT data are publicly available from TCIA.
 
 The raw datasets are not redistributed in this repository. Please obtain the datasets from the listed public sources and follow their respective access terms.
 
@@ -37,14 +37,14 @@ SSL4MIS: https://github.com/HiLab-git/SSL4MIS
 
 BCP: https://github.com/DeepMed-Lab-ECNU/BCP
 
-The pre-processed Pancreas-CT data follows the public release in Text-SemiSeg:
+The preprocessed Pancreas-CT data follows the public release in Text-SemiSeg:
 
 Text-SemiSeg: https://github.com/taozh2017/Text-SemiSeg/tree/main
 
 ## Contact
 
 Yujiao Lan
-Email: [your_email@163.com](mailto:your_email@163.com)
+Email: [llllean0@163.com](mailto:llllean0@163.com)
 
 Yongjun Zhang
 Email: [yjzhang1@gzu.edu.cn](mailto:yjzhang1@gzu.edu.cn)
